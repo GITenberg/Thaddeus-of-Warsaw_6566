@@ -1,0 +1,23 @@
+_repo: Thaddeus-of-Warsaw_6566
+creator:
+  author:
+    agent_name: Porter, Jane
+    birthdate: 1776
+    deathdate: 1850
+    gutenberg_agent_id: '1942'
+    url: http://www.gutenberg.org/2009/agents/1942
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Porter
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poland -- History -- Stanislaus II Augustus, 1764-1795 -- Fiction'
+- !lcc 'PR'
+title: Thaddeus of Warsaw
+url: http://www.gutenberg.org/ebooks/6566
